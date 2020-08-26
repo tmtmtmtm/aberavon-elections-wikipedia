@@ -62,7 +62,7 @@ Q333932,John Morris,Q9630,Labour Party (UK),26877,Q543609,1992 general election,
 ,Hywel Williams,Q9626,Conservative Party (UK),5567,Q543609,1992 general election,2
 ,Marilyn Harris,Q9624,Liberal Democrats (UK),4999,Q543609,1992 general election,3
 ,David W. J. Saunders,Q10691,Plaid Cymru,1919,Q543609,1992 general election,4
-Q5036555,Captain Beany,,Real Bean,707,Q543609,1992 general election,5
+Q5036555,Captain Beany,Q98643352,Real Bean,707,Q543609,1992 general election,5
 Q333932,John Morris,Q9630,Labour Party (UK),25650,Q918503,1997 general election,1
 ,Ronald McConville,Q9624,Liberal Democrats (UK),4079,Q918503,1997 general election,2
 ,Peter Harper,Q9626,Conservative Party (UK),2835,Q918503,1997 general election,3
@@ -74,7 +74,7 @@ Q390825,Hywel Francis,Q832685,Welsh Labour,19063,Q590740,2001 general election,1
 ,Christopher Davies,Q7981939,Welsh Liberal Democrats,2933,Q590740,2001 general election,3
 Q23301484,Ali Miraj,Q7981882,Welsh Conservative Party,2296,Q590740,2001 general election,4
 ,Andrew Tutton,Q327591,Independent politician,1960,Q590740,2001 general election,5
-Q5036555,Captain Beany,,New Millennium Bean,727,Q590740,2001 general election,6
+Q5036555,Captain Beany,Q98643355,New Millennium Bean,727,Q590740,2001 general election,6
 ,Martin Chapman,Q7981992,Welsh Socialist Alliance,256,Q590740,2001 general election,7
 Q390825,Hywel Francis,Q832685,Welsh Labour,18077,Q428598,2005 general election,1
 ,Claire Waller,Q7981939,Welsh Liberal Democrats,4140,Q428598,2005 general election,2
@@ -88,7 +88,7 @@ Q24405225,Caroline Jones,Q7981882,Welsh Conservative Party,4411,Q215622,2010 gen
 ,Paul Nicholls-Jones,Q10691,Plaid Cymru,2198,Q215622,2010 general election,4
 ,Kevin Edwards,Q161269,British National Party,1276,Q215622,2010 general election,5
 ,Andrew Tutton,Q327591,Independent politician,919,Q215622,2010 general election,6
-Q5036555,Captain Beany,,New Millennium Bean Party,558,Q215622,2010 general election,7
+Q5036555,Captain Beany,Q98643355,New Millennium Bean Party,558,Q215622,2010 general election,7
 ,Joe Callan,Q10647,UK Independence Party,489,Q215622,2010 general election,8
 Q3377178,Stephen Kinnock,Q832685,Welsh Labour,15416,Q3586935,2015 general election,1
 ,Peter Bush,Q10647,UK Independence Party,4971,Q3586935,2015 general election,2
