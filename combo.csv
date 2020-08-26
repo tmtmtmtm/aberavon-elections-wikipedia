@@ -1,0 +1,113 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q6231381,Jack Edwards,Q622441,Liberal Party (UK),13635,Q3042701,1918 general election,1
+,Q7351132,Robert Williams,Q9630,Labour Party (UK),7758,Q3042701,1918 general election,2
+,,T G Jones,Q6972593,National Federation of Discharged and Demobilized Sailors and Soldiers,324,Q3042701,1918 general election,3
+,Q166646,Ramsay MacDonald,Q9630,Labour Party (UK),14318,Q3084303,1922 general election,1
+,,Sidney Hutchinson Byass,Q9626,Unionist Party (UK),11111,Q3084303,1922 general election,2
+,Q6231381,John Edwards,Q6974098,"National Liberal Party (UK, 1922)",5238,Q3084303,1922 general election,3
+,Q166646,Ramsay MacDonald,Q9630,Labour Party (UK),17439,Q3084294,1923 general election,1
+,,Sidney Hutchinson Byass,Q9626,Unionist Party (UK),13927,Q3084294,1923 general election,2
+,Q166646,Ramsay MacDonald,Q9630,Labour Party (UK),17724,Q2632991,1924 general election,1
+,,William Henry Williams,Q622441,Liberal Party (UK),15624,Q2632991,1924 general election,2
+,Q8007183,William Cove,Q9630,Labour Party (UK),22194,Q517639,1929 general election,1
+,,William Henry Williams,Q622441,Liberal Party (UK),13155,Q517639,1929 general election,2
+,,Francis Bertram Reece,Q9626,Unionist Party (UK),4330,Q517639,1929 general election,3
+,Q8007183,William Cove,Q9630,Labour Party (UK),23029,Q918375,1931 general election,1
+,,Edward Curran,Q622441,Liberal Party (UK),16378,Q918375,1931 general election,2
+,Q8007183,William Cove,Q9630,Labour Party (UK),31286,Q918397,1945 general election,1
+,Q5236686,David Llewellyn,Q9626,Conservative Party (UK),11860,Q918397,1945 general election,2
+,Q8007183,William Cove,Q9630,Labour Party (UK),29278,Q748667,1950 general election,1
+,Q4819040,Auberon Herbert,Q1354368,National Liberal and Conservative,8091,Q748667,1950 general election,2
+,Q18751060,Maldwyn Thomas,Q622441,Liberal Party (UK),5263,Q748667,1950 general election,3
+,Q8007183,William Cove,Q9630,Labour Party (UK),30498,Q3722280,1951 general election,1
+,Q6245381,John Loveridge,Q9626,Conservative Party (UK),11878,Q3722280,1951 general election,2
+,Q8007183,William Cove,Q9630,Labour Party (UK),29003,Q918412,1955 general election,1
+,Q332323,Geoffrey Howe,Q9626,Conservative Party (UK),12706,Q918412,1955 general election,2
+,Q333932,John Morris,Q9630,Labour Party (UK),30397,Q918420,1959 general election,1
+,Q332323,Geoffrey Howe,Q9626,Conservative Party (UK),12759,Q918420,1959 general election,2
+,,Illtyd M. Lewis,Q10691,Plaid Cymru,3066,Q918420,1959 general election,3
+,Q333932,John Morris,Q9630,Labour Party (UK),33103,Q220208,1964 general election,1
+,Q13530049,John Stradling Thomas,Q9626,Conservative Party (UK),9424,Q220208,1964 general election,2
+,,Glyn John,Q10691,Plaid Cymru,2118,Q220208,1964 general election,3
+,Q2116053,Julian Tudor Hart,Q592068,Communist Party of Great Britain,1260,Q220208,1964 general election,4
+,Q333932,John Morris,Q9630,Labour Party (UK),33763,Q918430,1966 general election,1
+,Q7345495,Robert Hicks,Q9626,Conservative Party (UK),9369,Q918430,1966 general election,2
+,Q2116053,Julian Tudor Hart,Q592068,Communist Party of Great Britain,1620,Q918430,1966 general election,3
+,Q333932,John Morris,Q9630,Labour Party (UK),31314,Q918442,1970 general election,1
+,Q5981710,Ian Grist,Q9626,Conservative Party (UK),10419,Q918442,1970 general election,2
+,,Graham Farmer,Q10691,Plaid Cymru,3912,Q918442,1970 general election,3
+,Q2116053,Julian Tudor Hart,Q592068,Communist Party of Great Britain,1102,Q918442,1970 general election,4
+,Q333932,John Morris,Q9630,Labour Party (UK),31656,Q119524,February 1974 general election,1
+,Q7174764,Peter Hubbard-Miles,Q9626,Conservative Party (UK),10968,Q119524,February 1974 general election,2
+,,D G Foster,Q10691,Plaid Cymru,5898,Q119524,February 1974 general election,3
+,Q333932,John Morris,Q9630,Labour Party (UK),29683,Q918508,October 1974 general election,1
+,,N K Hammond,Q9626,Conservative Party (UK),7931,Q918508,October 1974 general election,2
+,,Sheila M. Cutts,Q622441,Liberal Party (UK),5178,Q918508,October 1974 general election,3
+,,Geraint Thomas,Q10691,Plaid Cymru,4032,Q918508,October 1974 general election,4
+,,J Bevan,Q4051005,Workers Revolutionary Party (UK),427,Q918508,October 1974 general election,5
+,Q333932,John Morris,Q9630,Labour Party (UK),31665,Q918450,1979 general election,1
+,,F McCarthy,Q9626,Conservative Party (UK),12692,Q918450,1979 general election,2
+,,Sheila M. Cutts,Q622441,Liberal Party (UK),4624,Q918450,1979 general election,3
+,,Geraint Thomas,Q10691,Plaid Cymru,1954,Q918450,1979 general election,4
+,,G Rowden,Q592068,Communist Party of Great Britain,406,Q918450,1979 general election,5
+,Q333932,John Morris,Q9630,Labour Party (UK),23745,Q918466,1983 general election,1
+,,Sheila M. Cutts,Q622441,Liberal Party (UK),8206,Q918466,1983 general election,2
+,,G N A Bailey,Q9626,Conservative Party (UK),6605,Q918466,1983 general election,3
+,,A G Phillips,Q10691,Plaid Cymru,1859,Q918466,1983 general election,4
+,Q333932,John Morris,Q9630,Labour Party (UK),27126,Q918472,1987 general election,1
+,,Marilyn Harris,Q622441,Liberal Party (UK),6517,Q918472,1987 general election,2
+,,Paul Warwick,Q9626,Conservative Party (UK),5861,Q918472,1987 general election,3
+,,Anne Howells,Q10691,Plaid Cymru,1124,Q918472,1987 general election,4
+,Q333932,John Morris,Q9630,Labour Party (UK),26877,Q543609,1992 general election,1
+Q266189,,Hywel Williams,Q9626,Conservative Party (UK),5567,Q543609,1992 general election,2
+,,Marilyn Harris,Q9624,Liberal Democrats (UK),4999,Q543609,1992 general election,3
+,,David W. J. Saunders,Q10691,Plaid Cymru,1919,Q543609,1992 general election,4
+,Q5036555,Captain Beany,Q98643352,Real Bean,707,Q543609,1992 general election,5
+,Q333932,John Morris,Q9630,Labour Party (UK),25650,Q918503,1997 general election,1
+,,Ronald McConville,Q9624,Liberal Democrats (UK),4079,Q918503,1997 general election,2
+,,Peter Harper,Q9626,Conservative Party (UK),2835,Q918503,1997 general election,3
+,,Philip Cockwell,Q10691,Plaid Cymru,2088,Q918503,1997 general election,4
+,,Peter David,Q278315,Referendum Party,970,Q918503,1997 general election,5
+,Q5036555,Captain Beany,Q327591,Independent politician,341,Q918503,1997 general election,6
+,Q390825,Hywel Francis,Q832685,Welsh Labour,19063,Q590740,2001 general election,1
+,,Lisa Turnbull,Q10691,Plaid Cymru,2955,Q590740,2001 general election,2
+Q19957299,,Christopher Davies,Q7981939,Welsh Liberal Democrats,2933,Q590740,2001 general election,3
+,Q23301484,Ali Miraj,Q7981882,Welsh Conservative Party,2296,Q590740,2001 general election,4
+,,Andrew Tutton,Q327591,Independent politician,1960,Q590740,2001 general election,5
+,Q5036555,Captain Beany,Q98643355,New Millennium Bean,727,Q590740,2001 general election,6
+,,Martin Chapman,Q7981992,Welsh Socialist Alliance,256,Q590740,2001 general election,7
+,Q390825,Hywel Francis,Q832685,Welsh Labour,18077,Q428598,2005 general election,1
+,,Claire Waller,Q7981939,Welsh Liberal Democrats,4140,Q428598,2005 general election,2
+,,Philip Evans,Q10691,Plaid Cymru,3545,Q428598,2005 general election,3
+,Q4769784,Annunziata Rees-Mogg,Q7981882,Welsh Conservative Party,3064,Q428598,2005 general election,4
+,,Jim Wright,Q162246,Veritas (political party),768,Q428598,2005 general election,5
+,,Miranda La Vey,Q9669,Green Party of England and Wales,510,Q428598,2005 general election,6
+,Q390825,Hywel Francis,Q832685,Welsh Labour,16073,Q215622,2010 general election,1
+,,Keith Davies,Q7981939,Welsh Liberal Democrats,5034,Q215622,2010 general election,2
+,Q24405225,Caroline Jones,Q7981882,Welsh Conservative Party,4411,Q215622,2010 general election,3
+,,Paul Nicholls-Jones,Q10691,Plaid Cymru,2198,Q215622,2010 general election,4
+,,Kevin Edwards,Q161269,British National Party,1276,Q215622,2010 general election,5
+,,Andrew Tutton,Q327591,Independent politician,919,Q215622,2010 general election,6
+,Q5036555,Captain Beany,Q98643355,New Millennium Bean Party,558,Q215622,2010 general election,7
+,,Joe Callan,Q10647,UK Independence Party,489,Q215622,2010 general election,8
+,Q3377178,Stephen Kinnock,Q832685,Welsh Labour,15416,Q3586935,2015 general election,1
+,,Peter Bush,Q10647,UK Independence Party,4971,Q3586935,2015 general election,2
+,,Edward Yi He,Q7981882,Welsh Conservative Party,3742,Q3586935,2015 general election,3
+,,Duncan Higgitt,Q10691,Plaid Cymru,3663,Q3586935,2015 general election,4
+,,Helen Ceri-Clarke,Q7981939,Welsh Liberal Democrats,1397,Q3586935,2015 general election,5
+,Q5036555,Captain Beany,Q327591,Independent politician,1137,Q3586935,2015 general election,6
+,,Jonathan Tier,Q9669,Green Party of England and Wales,711,Q3586935,2015 general election,7
+,,Andrew Jordan,Q3491460,Socialist Labour Party (UK),352,Q3586935,2015 general election,8
+,,Owen Herbert,Q980923,Trade Unionist and Socialist Coalition,134,Q3586935,2015 general election,9
+,Q3377178,Stephen Kinnock,Q832685,Welsh Labour,22662,Q25052149,2017 general election,1
+Q76363010,,Sadie Vidal,Q7981882,Welsh Conservative Party,5901,Q25052149,2017 general election,2
+,,Andrew Bennison,Q10691,Plaid Cymru,2761,Q25052149,2017 general election,3
+,Q24405225,Caroline Jones,Q10647,UK Independence Party,1345,Q25052149,2017 general election,4
+,,Cen Phillips,Q7981939,Welsh Liberal Democrats,599,Q25052149,2017 general election,5
+,Q3377178,Stephen Kinnock,Q832685,Welsh Labour,17008,Q30173038,2019 general election,1
+Q76449026,,Charlotte Lang,Q7981882,Welsh Conservative Party,6518,Q30173038,2019 general election,2
+,,Glenda Davies,Q61651140,Brexit Party,3108,Q30173038,2019 general election,3
+Q76130730,,Nigel Hunt,Q10691,Plaid Cymru,2711,Q30173038,2019 general election,4
+Q75838827,,Sheila Kingston-Jones,Q7981939,Welsh Liberal Democrats,1072,Q30173038,2019 general election,5
+,Q5036555,Captain Beany,Q327591,Independent politician,731,Q30173038,2019 general election,6
+Q75975836,,Giorgia Finney,Q9669,Green Party of England and Wales,450,Q30173038,2019 general election,7
