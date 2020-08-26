@@ -119,12 +119,7 @@ LAST	P106	Q19772737
 LAST	P3602	Q918450	P768	Q290823	P102	Q10691	P1111	1954	P1352	4	S4656	"https://en.wikipedia.org/wiki/Aberavon_(UK_Parliament_constituency)"
 LAST	P3602	Q918508	P768	Q290823	P102	Q10691	P1111	4032	P1352	4	S4656	"https://en.wikipedia.org/wiki/Aberavon_(UK_Parliament_constituency)"
 Q75975836	P3602	Q30173038	P768	Q290823	P102	Q9669	P1111	450	P1352	7	S4656	"https://en.wikipedia.org/wiki/Aberavon_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Glenda Davies"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q290823	P102	Q61651140	P1111	3108	P1352	3	S4656	"https://en.wikipedia.org/wiki/Aberavon_(UK_Parliament_constituency)"
+Q76509380	P3602	Q30173038	P768	Q290823	P102	Q61651140	P1111	3108	P1352	3	S4656	"https://en.wikipedia.org/wiki/Aberavon_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Glyn John"
